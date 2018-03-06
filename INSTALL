@@ -1,0 +1,9 @@
+Building Doo
+
+See doc/readme-qt.rst for instructions on building Doo QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Doo.
+
+See doc/build-*.txt for instructions on building dood,
+the intended-for-services, no-graphical-interface, reference
+implementation of Doo.
